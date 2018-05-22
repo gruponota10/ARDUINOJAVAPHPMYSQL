@@ -1,0 +1,13 @@
+CREATE DATABASE arduino
+
+CREATE TABLE dados(
+
+iddados int auto_increment primary key,
+
+valortemp double not null,
+
+valorhumi double not null,
+
+valorchuva varchar(20) not null
+
+);

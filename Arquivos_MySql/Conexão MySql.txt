@@ -1,0 +1,7 @@
+URL : localhost:3306
+
+Usuário : root
+
+Senha : newrootpassword
+
+Nome da DB : arduino
