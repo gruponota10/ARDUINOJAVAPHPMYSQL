@@ -39,7 +39,6 @@
 
     .header{
         height: 10%;
-       /* background-image: url("blog-header-background.png"); */
         background-size: cover;
         min-width: 400px;
 
@@ -48,7 +47,7 @@
 
     @media (min-width:1000px){
     .content{
-       /* background-image: url("content.jpg"); */
+
         background-size: cover;
         display: flex;
         align-items: center;
@@ -139,7 +138,7 @@
 
 
     .footer{
-       /* background-image: url("Footer-background.jpg"); */
+    
             background-size: cover;
             height: 10%;
             min-width: 400px;
